@@ -23,3 +23,8 @@ The objective of this project is to analyze the robustness of GPT models when en
 ### 📝 Results
 - A higher perplexity score indicates lower model confidence in predicting the next word.
 - Minor text modifications  impact perplexity, revealing model sensitivity to typos.
+
+### 🔥 Future Work
+- Expand dataset coverage for better generalization.
+- Evaluate additional language models.
+- Investigate the effect of different types of modifications.
