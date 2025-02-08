@@ -6,6 +6,15 @@ This repository evaluates the performance of pre-trained language models such as
 ### 🚀 Project Overview
 The objective of this project is to analyze the robustness of GPT models when encountering modified text. By computing perplexity on both original and modified texts, we can assess how small changes impact model confidence.
 
+## Model Parameters
+
+| Model Name       | Parameter     |
+|------------------|---------------|
+| GPT-2            | 124M          |
+| GPT-2 Medium     | 335M          |
+| GPT-Neo-125M     | 125M          |
+
+
 ### 📌 Steps to Complete the Task
 - **Install Dependencies:** Ensure required libraries (```transformers```, ```datasets```, ```torch```, ```matplotlib```, ```seaborn```) are installed.
 - **Load Pre-trained Models & Tokenizers:** Utilize Hugging Face’s ```transformers``` library to load GPT-2 and GPT-Neo.
