@@ -1,7 +1,7 @@
 # Text-Perplexity-Evaluation-On-LLMs
 
 ### Benchmarking GPT-2 and GPT-Neo on Wikitext-2
-This repository evaluates the performance of pre-trained language models such as GPT-2, GPT-2 Medium and GPT-Neo on the Wikitext-2 test dataset by computing perplexity. Additionally, it explores how minor text modifications such as typos or errors affect model performance.
+This repository evaluates the performance of pre-trained language models such as GPT-2 (Standard & Medium) and GPT-Neo on the Wikitext-2 test dataset by computing perplexity. Additionally, it explores how minor text modifications such as typos or errors affect model performance.
 
 ### 🚀 Project Overview
 The objective of this project is to analyze the robustness of GPT models when encountering modified text. By computing perplexity on both original and modified texts, we can assess how small changes impact model confidence.
