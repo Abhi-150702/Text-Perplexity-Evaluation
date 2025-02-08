@@ -28,3 +28,8 @@ The objective of this project is to analyze the robustness of GPT models when en
 - Expand dataset coverage for better generalization.
 - Evaluate additional language models.
 - Investigate the effect of different types of modifications.
+
+### Contact
+For queries, feel free to reach out:
+- Author: Abhishek Kumbharde
+- Email: abhikumbharde@gmail.com
